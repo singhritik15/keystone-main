@@ -8,9 +8,9 @@ Built as a Java Full-Stack Engineering project for Zidio Development.
 
 | Component | URL |
 |---|---|
-| Frontend (React SPA) | https://keystone-ritik-singh.onrender.com |
-| Backend API | https://keystone-backend-752r.onrender.com |
-| Swagger / OpenAPI UI | https://keystone-backend-752r.onrender.com/swagger-ui.html |
+| Frontend (React SPA) | https://keystone-frontend-y56l.onrender.com |
+| Backend API | https://keystone-backend-pnqp.onrender.com |
+| Swagger / OpenAPI UI | https://keystone-backend-pnqp.onrender.com/swagger-ui.html |
 | Database | Render PostgreSQL (managed) |
 
 > **Cold start note:** services are on Render's free tier and spin down when idle. Before using the app, open the Backend API and Frontend links above first and wait ~1 min for them to wake up, then use the Frontend as the full-stack app.
